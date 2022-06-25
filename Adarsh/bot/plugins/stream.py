@@ -1,4 +1,4 @@
-# (c) adarsh-goel
+# (c) Amg-world
 
 import asyncio
 from Adarsh.bot import StreamBot
