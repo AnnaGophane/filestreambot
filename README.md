@@ -30,9 +30,9 @@
    
     
    
-   <a href="https://github.com/adarsh-goel/FileStreamBot/issues">Report a Bug</a>
+   <a href="https://github.com/AnnaGophane/FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/adarsh-goel/FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/AnnaGophane/FileStreamBot/issues">Request Feature</a>
   </p>
 
 
@@ -86,7 +86,7 @@ Press the below button to  deploy on Heroku
 
 
 ```py
-git clone https://github.com/adarsh-goel/FileStreamBot
+git clone https:https://github.com/AnnaGophane/FileStreamBot
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -167,7 +167,7 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
 ### 🔷 Credits : 
 
-- [Adarsh Goel_(me)](https://t.me/codexmania)
+- [Amgworld_(me)](https://t.me/Amgworld01)
 - Everyone In This Journey !
 - `Feel free to contribute 😀`
 
